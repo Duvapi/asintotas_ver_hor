@@ -1,0 +1,3 @@
+0.000000	7.071061	introduccion
+7.071061	14.401135	factorizacion
+14.401135	24.476750	conclusion

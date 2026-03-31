@@ -1,0 +1,4 @@
+0.000000	3.092622	enunciado
+3.092622	6.752529	intercepto_y
+6.752529	11.620206	intercepto_x
+11.620206	14.291937	conclusion

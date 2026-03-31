@@ -1,0 +1,3 @@
+0.000000	2.971547	enunciado
+2.971547	8.662816	calculo_lim
+8.662816	18.571320	conclusion

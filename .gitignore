@@ -1,0 +1,20 @@
+# Local backups (do not upload)
+backups_local/
+
+# Final export in repo root
+/Presentacion_Final3.mp4
+
+# Heavy audio sources
+audio/*.mp3
+
+# Render outputs (video/audio artifacts under media)
+
+# Explicit quality folders under media/videos/<scene>/
+
+# Ignore all media artifacts
+media/
+
+# Python cache
+__pycache__/
+*.pyc
+
