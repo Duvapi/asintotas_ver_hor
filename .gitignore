@@ -5,7 +5,6 @@ backups_local/
 /Presentacion_Final3.mp4
 
 # Heavy audio sources
-audio/*.mp3
 
 # Render outputs (video/audio artifacts under media)
 
